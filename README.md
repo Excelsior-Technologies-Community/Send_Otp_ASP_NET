@@ -32,7 +32,7 @@ Twilio SMS-enabled phone number (FromNumber)
   
   "AuthToken": "your_auth_token",
   
-  "FromNumber": "+15017122661"
+  "FromNumber": "+15xxxxxxxxxxx"
 }
 
 Generates a secure 6-digit OTP
